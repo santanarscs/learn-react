@@ -12,9 +12,9 @@
 }
 
 #main-container form input {
-    /* height: 48p8;
+    height: 48px;
     border: 1px solid #ddd;
-    border-radius: 4px; */
+    border-radius: 4px;
     font-size: 16px;
     padding: 0 20px;
     margin-top:30px;
